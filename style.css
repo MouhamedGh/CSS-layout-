@@ -1,0 +1,156 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+body{
+  margin-inline: auto;
+  width: 80%;
+
+}
+.img1 {
+  width: 170px;
+}
+
+header {
+    background-color: white;
+  display: flex;
+  justify-content: space-between;
+align-items: center;
+padding-top: 30px;  
+}
+
+a {
+    color: #00b39b;
+    padding:0px 9px;
+    font:15px; ;
+}
+.img{
+    padding-top: 15px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+padding-left: 50%;
+}
+.text{
+    color: #00b39b;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.h1{
+    
+    margin: 2.125rem;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    text-align: center;
+}
+.pg{
+  color: #747474;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 70px;
+  font-weight: 400;
+  font-family: Roboto,Arial,sans-serif;
+  
+}
+
+.card {
+  width: 360px;
+  height: 450px;
+  background-color: white;
+  border-radius: 12px;
+  margin-top: 10px;
+display: flex;
+flex-direction: column;}
+.container {
+  background-color: white;
+  margin-top: 10px;
+  padding: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+.img2
+{width:  100px ;
+  
+}
+h5{
+  color: white;
+  font-family: Work Sans,Arial,sans-serif;
+  text-align: justify;
+  line-height: 100px;
+}
+section{
+  padding-top: 40px;
+  padding-right: 35px;
+  margin-top: 40px;
+  line-height: 50px;
+}
+.car{
+ 
+  background:#00ccb1;
+  border-radius: 18px;
+  padding: 32px 32px 32px;
+}
+ p{
+  inline-size: auto;
+ }
+ .car2{
+ background-color: #3d83df;
+ border-radius: 10px;
+ padding: 2em 2em 0;
+ overflow: hidden;
+ height: 345px;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+ transition: all;
+  
+ }
+ .ima{
+  width: 30px;;
+ }
+ h3{
+  font-size: 1.625em;
+  font-weight: 400;
+  color: #fff;
+  margin: 0,3em 0;
+ }
+ .section2{
+  font: #fff;
+  padding: 0PX 38,4px 0px 0px;
+ }
+ .im1{
+  width: 30px;
+ }
+ .car3{
+  background-color: #747474;
+ border-radius: 10px;
+ padding: 2em 2em 0;
+ overflow: hidden;
+ height: 345px;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+ transition: all;
+  
+ }
+ h1{
+  font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    color: #00b39b;
+ }
+ main{
+  
+  display: flex;
+  justify-content: space-between
+  
+  
+
+ 
+}
+ h1{
+  width: 20%;
+
+}
